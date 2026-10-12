@@ -1,5 +1,7 @@
 # Part 1: Types and logical comparisons ----
 
+# Collaborators:
+
 ## Types -----
 x <- 1
 typeof(x)
